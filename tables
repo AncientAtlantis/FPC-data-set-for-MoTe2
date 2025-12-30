@@ -1,0 +1,85 @@
+data_set_plane_strain_dpgen:
+  H and T_distorted inplane strain dpgen cycle
+  Total frame 7999
+
+data_set_plane_strain_dpgen_02:
+  d1T inplane strain dpgen cycle
+  Total frame 2000
+
+data_set_plane_strain_init:
+  H T_distorted d1T inplane strain init data set
+  Total frame 441
+
+data_set_plane_strain_init_v2:
+  H T_distorted d1T inplane strain init data set v2
+  Total frame 840
+
+data_set_plane_strain_add:
+  added d1T phase
+  Total frame 2916
+
+data_set_plane_strain_add_02:
+  H T_distorted d1T small strain small pertubation
+  Total frame 2400
+
+data_set_broken_dpgen:
+  H T_distorted d1T broken dpgen cycles
+  Total frame 828
+
+data_set_broken_init:
+  H T_distorted d1T broken init data set
+  Total frame 53
+
+data_set_curvature:
+  H T_distorted d1T curvature
+  Total frame 1023
+
+data_set_saddle_points:
+  H/T_distorted/d1T intermediate structures
+  Total frame 5730
+
+data_set_saddle_points_add:
+  T/T_distorted and T/d1T intermediate structures
+  Total frame 2970
+
+data_set_saddle_points_add_02:
+  same as saddle points, with small pertubation
+  Total frame 3052
+
+data_set_vacancy_defect_H:
+  vacancy defect in H phase dpgen cycle
+  Total frame 3890
+
+data_set_vacancy_defect_T:
+  vacancy defect in T phase dpgen cycle
+  Total frame 2765
+
+data_set_vacancy_defect_T_distorted:
+  vacancy defect in T_distorted phase dpgen cycle
+  Total frame 2390
+
+data_set_vacancy_defect_d1T:
+  vacancy defect in d1T phase dpgen cycle
+  Total frame 2026
+
+data_set_vacancy_defect_H_add:
+  vacancy defect in H phase added
+  Total frame 454
+
+data_set_interface_dpgen:
+  interfaces in dpgen cycle
+  Total frame 961
+
+data_set_fine_tune_for_phonon_dpgen:
+  H T_distorted d1T and T for phonon finetune dpgen cycle
+  Total frame 2291
+
+data_set_T_distorted_pattern_dpgen:
+  the in-plane pattern of T distorted MoTe2
+  Total frame 1691
+
+data_set_T_distorted_pattern_add:
+  the in-plane pattern of T distorted MoTe2 with larger cell (manual gen)
+  Total frame 1760
+
+#Total: 45029
